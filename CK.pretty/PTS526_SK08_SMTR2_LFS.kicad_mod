@@ -1,4 +1,4 @@
-(module PTS526_SK08_SMTR2_LFS (layer F.Cu) (tedit 5D835132)
+(module PTS526_SK08_SMTR2_LFS (layer F.Cu) (tedit 5D8A1D78)
   (descr "tactile push button, 5.2x5.2mm e.g. PTS526xx series")
   (tags "tact sw push 5.2mm smd")
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 2 smd rect (at 3 -1.85) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3 -1.85) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3 1.85) (size 1 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_PUSH_6mm_H9.5mm.wrl
+  (model ${KIPRJMOD}/modules/packages3D/CK.3dshapes/PTS526SK08SMTR2LFS.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
