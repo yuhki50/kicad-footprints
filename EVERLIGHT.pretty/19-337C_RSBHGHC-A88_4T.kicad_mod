@@ -1,4 +1,4 @@
-(module 19-337C_RSBHGHC-A88_4T (layer F.Cu) (tedit 5D77A5A9)
+(module 19-337C_RSBHGHC-A88_4T (layer F.Cu) (tedit 5D8AABAA)
   (descr https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-337C_RSBHGHC-A88_4T_Rev2_1-25-19.pdf)
   (tags "LED EVERLIGHT")
   (attr smd)
@@ -29,9 +29,9 @@
   (pad 5 smd rect (at 0.675 0.725) (size 0.55 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.75 0) (size 0.7 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0.675 -0.725) (size 0.55 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Avago_PLCC6_3x2.8mm.wrl
+  (model ${KIPRJMOD}/modules/packages3D/EVERLIGHT.3dshapes/19-337C_RSBHGHC-A88_4T.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
