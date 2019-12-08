@@ -1,4 +1,5 @@
 (fp_lib_table
+  (lib (name 3M)(type KiCad)(uri ${KIPRJMOD}/modules/3M.pretty)(options "")(descr ""))
   (lib (name AlphaOmega)(type KiCad)(uri ${KIPRJMOD}/modules/AlphaOmega.pretty)(options "")(descr ""))
   (lib (name Amphenol)(type KiCad)(uri ${KIPRJMOD}/modules/Amphenol.pretty)(options "")(descr ""))
   (lib (name AnalogDevices)(type KiCad)(uri ${KIPRJMOD}/modules/AnalogDevices.pretty)(options "")(descr ""))
