@@ -1,4 +1,4 @@
-(module Amphenol_62674-241121ALF_1x24-1MP_P0.50mm_Vertical (layer F.Cu) (tedit 5D0DC0C5)
+(module Amphenol_62674-241121ALF_1x24-1MP_P0.50mm_Vertical (layer F.Cu) (tedit 5DD2D566)
   (descr "Amphenol 62674, FFC/FPC connector, 62674-241121ALF, 24 Pins per row (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/62674.pdf)")
   (tags "connector Amphenol top entry")
   (attr smd)
@@ -51,9 +51,4 @@
   (pad 24 smd rect (at -5.75 1.2) (size 0.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 6.75 1.2) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 6.75 -1.2) (size 0.6 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
