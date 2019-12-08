@@ -1,4 +1,4 @@
-(module CUS-12B (layer F.Cu) (tedit 5D7C6D25)
+(module CUS-12B (layer F.Cu) (tedit 5DECE295)
   (descr "CUS Series Low profile slide switches")
   (tags "CUS switch slide")
   (attr smd)
@@ -35,4 +35,9 @@
   (pad S smd rect (at -3.65 -1.05) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad S smd rect (at 3.65 1.05) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad S smd rect (at 3.65 -1.05) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/modules/packages3D/NidecCopal.3dshapes/CUS-12TB.step
+    (offset (xyz 0 0 1.35))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

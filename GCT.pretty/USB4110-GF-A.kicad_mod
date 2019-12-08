@@ -1,4 +1,4 @@
-(module USB4110-GF-A (layer F.Cu) (tedit 5DEBA272)
+(module USB4110-GF-A (layer F.Cu) (tedit 5DECF226)
   (descr http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf)
   (tags "USB C Type-C Receptacle USB2.0")
   (attr smd)
@@ -50,9 +50,9 @@
   (pad S1 smd rect (at -5.11 1.995) (size 2.18 2) (layers F.Cu F.Paste F.Mask))
   (pad S1 smd rect (at 5.11 1.995) (size 2.18 2) (layers F.Cu F.Paste F.Mask))
   (pad S1 smd rect (at 5.11 -1.935) (size 2.18 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_Palconn_UTC16-G.wrl
-    (at (xyz 0 0 0))
+  (model ${KIPRJMOD}/modules/packages3D/GCT.3dshapes/USB4110-GF-A_revA.step
+    (offset (xyz 24.1 -110.5 0.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
