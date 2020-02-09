@@ -17,4 +17,5 @@
   (lib (name NidecCopal)(type KiCad)(uri ${KIPRJMOD}/modules/NidecCopal.pretty)(options "")(descr ""))
   (lib (name PerforationHole)(type KiCad)(uri ${KIPRJMOD}/modules/PerforationHole.pretty)(options "")(descr ""))
   (lib (name TexasInstruments)(type KiCad)(uri ${KIPRJMOD}/modules/TexasInstruments.pretty)(options "")(descr ""))
+  (lib (name VishaySemiconductor)(type KiCad)(uri ${KIPRJMOD}/modules/VishaySemiconductor.pretty)(options "")(descr ""))
 )
