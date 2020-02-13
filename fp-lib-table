@@ -4,6 +4,7 @@
   (lib (name Amphenol)(type KiCad)(uri ${KIPRJMOD}/modules/Amphenol.pretty)(options "")(descr ""))
   (lib (name AnalogDevices)(type KiCad)(uri ${KIPRJMOD}/modules/AnalogDevices.pretty)(options "")(descr ""))
   (lib (name Avvicon)(type KiCad)(uri ${KIPRJMOD}/modules/Avvicon.pretty)(options "")(descr ""))
+  (lib (name BatteryTerminal)(type KiCad)(uri ${KIPRJMOD}/modules/BatteryTerminal.pretty)(options "")(descr ""))
   (lib (name CK)(type KiCad)(uri ${KIPRJMOD}/modules/CK.pretty)(options "")(descr ""))
   (lib (name EVERLIGHT)(type KiCad)(uri ${KIPRJMOD}/modules/EVERLIGHT.pretty)(options "")(descr ""))
   (lib (name Elna)(type KiCad)(uri ${KIPRJMOD}/modules/Elna.pretty)(options "")(descr ""))
