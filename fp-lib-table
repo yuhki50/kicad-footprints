@@ -16,6 +16,7 @@
   (lib (name Hirose)(type KiCad)(uri ${KIPRJMOD}/modules/Hirose.pretty)(options "")(descr ""))
   (lib (name KeystoneElectronics)(type KiCad)(uri ${KIPRJMOD}/modules/KeystoneElectronics.pretty)(options "")(descr ""))
   (lib (name Laird)(type KiCad)(uri ${KIPRJMOD}/modules/Laird.pretty)(options "")(descr ""))
+  (lib (name Maxim)(type KiCad)(uri ${KIPRJMOD}/modules/Maxim.pretty)(options "")(descr ""))
   (lib (name Microchip)(type KiCad)(uri ${KIPRJMOD}/modules/Microchip.pretty)(options "")(descr ""))
   (lib (name Molex)(type KiCad)(uri ${KIPRJMOD}/modules/Molex.pretty)(options "")(descr ""))
   (lib (name Nexperia)(type KiCad)(uri ${KIPRJMOD}/modules/Nexperia.pretty)(options "")(descr ""))
