@@ -26,6 +26,7 @@
   (lib (name PerforationHole)(type KiCad)(uri ${KIPRJMOD}/modules/PerforationHole.pretty)(options "")(descr ""))
   (lib (name Raytac)(type KiCad)(uri ${KIPRJMOD}/modules/Raytac.pretty)(options "")(descr ""))
   (lib (name Rohm)(type KiCad)(uri ${KIPRJMOD}/modules/Rohm.pretty)(options "")(descr ""))
+  (lib (name TEConnectivity)(type KiCad)(uri ${KIPRJMOD}/modules/TEConnectivity.pretty)(options "")(descr ""))
   (lib (name TexasInstruments)(type KiCad)(uri ${KIPRJMOD}/modules/TexasInstruments.pretty)(options "")(descr ""))
   (lib (name VishaySemiconductor)(type KiCad)(uri ${KIPRJMOD}/modules/VishaySemiconductor.pretty)(options "")(descr ""))
   (lib (name WorldSemi)(type KiCad)(uri ${KIPRJMOD}/modules/WorldSemi.pretty)(options "")(descr ""))
