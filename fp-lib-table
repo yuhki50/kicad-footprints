@@ -16,6 +16,7 @@
   (lib (name GCT)(type KiCad)(uri ${KIPRJMOD}/modules/GCT.pretty)(options "")(descr ""))
   (lib (name GLCD)(type KiCad)(uri ${KIPRJMOD}/modules/GLCD.pretty)(options "")(descr ""))
   (lib (name Hirose)(type KiCad)(uri ${KIPRJMOD}/modules/Hirose.pretty)(options "")(descr ""))
+  (lib (name InsightSiP)(type KiCad)(uri ${KIPRJMOD}/modules/InsightSiP.pretty)(options "")(descr ""))
   (lib (name KeystoneElectronics)(type KiCad)(uri ${KIPRJMOD}/modules/KeystoneElectronics.pretty)(options "")(descr ""))
   (lib (name Laird)(type KiCad)(uri ${KIPRJMOD}/modules/Laird.pretty)(options "")(descr ""))
   (lib (name Maxim)(type KiCad)(uri ${KIPRJMOD}/modules/Maxim.pretty)(options "")(descr ""))
