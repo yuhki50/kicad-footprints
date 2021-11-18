@@ -3,6 +3,7 @@
   (lib (name AlphaOmega)(type KiCad)(uri ${KIPRJMOD}/modules/AlphaOmega.pretty)(options "")(descr ""))
   (lib (name Amphenol)(type KiCad)(uri ${KIPRJMOD}/modules/Amphenol.pretty)(options "")(descr ""))
   (lib (name AnalogDevices)(type KiCad)(uri ${KIPRJMOD}/modules/AnalogDevices.pretty)(options "")(descr ""))
+  (lib (name Asahikasei)(type KiCad)(uri ${KIPRJMOD}/modules/Asahikasei.pretty)(options "")(descr ""))
   (lib (name Avvicon)(type KiCad)(uri ${KIPRJMOD}/modules/Avvicon.pretty)(options "")(descr ""))
   (lib (name BatteryCell)(type KiCad)(uri ${KIPRJMOD}/modules/BatteryCell.pretty)(options "")(descr ""))
   (lib (name BatteryTerminal)(type KiCad)(uri ${KIPRJMOD}/modules/BatteryTerminal.pretty)(options "")(descr ""))
