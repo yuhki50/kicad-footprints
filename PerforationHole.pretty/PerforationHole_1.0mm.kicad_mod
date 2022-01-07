@@ -1,15 +1,20 @@
-(module PerforationHole_1.0mm (layer F.Cu) (tedit 5D86F284)
+(footprint "PerforationHole_1.0mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5D86F284)
   (descr "Perforation Hole 1.0mm")
   (tags "mounting hole 1.0mm")
-  (attr virtual)
-  (fp_text reference REF** (at 0 -1.5) (layer F.SilkS) hide
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -1.5) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ecff22aa-f988-4816-8c9e-30427fb9e7d8)
   )
-  (fp_text value PerforationHole_1.0mm (at 0 1.5) (layer F.Fab) hide
+  (fp_text value "PerforationHole_1.0mm" (at 0 1.5) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 80e2c374-f803-4230-a4d7-c9c155e16b83)
   )
-  (fp_text user %R (at 0.3 0) (layer F.Fab) hide
+  (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6fecb0d5-d181-4532-a4d0-fe6f59a4d758)
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 1 1) (drill 1) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 1 1) (drill 1) (layers *.Cu *.Mask) (tstamp 1c8262d6-7e9b-43f4-9f12-2b3888725a70))
 )

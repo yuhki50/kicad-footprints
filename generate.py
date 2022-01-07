@@ -7,7 +7,7 @@ from pathlib import Path
 try:
     script_dir = Path(__file__).parent.resolve()
 
-    with (script_dir / "fp-lib-table").open("w") as f:
+    with (script_dir / "fp-lib-table").open("w", newline="\n") as f:
         f.write("\n".join([
             "(fp_lib_table",
             "\n".join([
