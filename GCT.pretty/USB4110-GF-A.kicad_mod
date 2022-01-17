@@ -1,6 +1,6 @@
 (footprint "USB4110-GF-A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61DF96CE)
+  (tedit 61E51E92)
   (descr "https://gct.co/files/drawings/usb4110.pdf")
   (tags "USB C Type-C Receptacle USB2.0")
   (attr smd)
@@ -56,8 +56,8 @@
   (pad "S1" smd rect (at 5.11 -6.775) (size 2.18 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c7a41e8-25e8-4eb0-be7c-a7c812a9447d))
   (pad "S1" smd rect (at 5.11 -2.845) (size 2.18 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e70df972-6964-4f19-8714-c0169635c69a))
   (pad "S1" smd rect (at -5.11 -2.845) (size 2.18 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e7c70b0a-cf5d-4277-806e-f355c42b1399))
-  (model "${KIPRJMOD}/modules/packages3D/GCT.3dshapes/USB4110-GF-A_revA.step"
-    (offset (xyz 24.1 -110.5 0.5))
+  (model "${KIPRJMOD}/modules/packages3D/GCT.3dshapes/USB4110-GF-A.step"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
