@@ -1,6 +1,6 @@
 (footprint "SOT-143B" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 5D0E1AAC)
+  (tedit 61E60A54)
   (descr "SOT-143")
   (tags "SOT-143")
   (attr smd)
@@ -30,9 +30,9 @@
   (pad "2" smd rect (at -1 0.95) (size 0.7 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bb71fccb-7942-4d7d-b781-c8144c33ade6))
   (pad "3" smd rect (at 1 0.95) (size 0.7 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 885a6e47-6981-40fc-ab72-3897cded872c))
   (pad "4" smd rect (at 1 -0.95) (size 0.7 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1498bfbb-f5ed-426d-8625-66e2eaff7625))
-  (model "${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-143.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143.wrl"
     (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.9 1 1))
     (rotate (xyz 0 0 0))
   )
 )
