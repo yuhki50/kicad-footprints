@@ -1,6 +1,6 @@
 (footprint "ESP32-WROOM-32D" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 60E72088)
+  (tedit 6239B4AF)
   (descr "Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf")
   (tags "Single 2.4 GHz Wi-Fi and Bluetooth combo  chip")
   (attr smd)
@@ -137,8 +137,8 @@
   (pad "37" smd rect (at 8.5 -6.985) (size 2 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a43d4b07-1d3f-4661-9a35-21784f63347c))
   (pad "38" smd rect (at 8.5 -8.255) (size 2 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3f8a17f-8c6f-4feb-89a3-d8c7002da6b7))
   (pad "39" smd rect (at -1.5 -0.755) (size 5 5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31826a7a-12f5-47d5-af7f-8ba1ad19fa10))
-  (model "${KISYS3DMOD}/RF_Module.3dshapes/ESP32-WROOM-32.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/modules/packages3D/Espressif.3dshapes/ESP32-WROOM-32D_20210903_0.step"
+    (offset (xyz -9 15.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
