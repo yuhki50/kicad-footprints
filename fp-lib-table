@@ -12,6 +12,7 @@
   (lib (name CK)(type KiCad)(uri ${KIPRJMOD}/modules/CK.pretty)(options "")(descr ""))
   (lib (name Cyrola)(type KiCad)(uri ${KIPRJMOD}/modules/Cyrola.pretty)(options "")(descr ""))
   (lib (name Diodes)(type KiCad)(uri ${KIPRJMOD}/modules/Diodes.pretty)(options "")(descr ""))
+  (lib (name E-Switch)(type KiCad)(uri ${KIPRJMOD}/modules/E-Switch.pretty)(options "")(descr ""))
   (lib (name EPSON)(type KiCad)(uri ${KIPRJMOD}/modules/EPSON.pretty)(options "")(descr ""))
   (lib (name EVERLIGHT)(type KiCad)(uri ${KIPRJMOD}/modules/EVERLIGHT.pretty)(options "")(descr ""))
   (lib (name Elna)(type KiCad)(uri ${KIPRJMOD}/modules/Elna.pretty)(options "")(descr ""))
