@@ -40,4 +40,5 @@
   (lib (name TexasInstruments)(type KiCad)(uri ${KIPRJMOD}/modules/TexasInstruments.pretty)(options "")(descr ""))
   (lib (name VishaySemiconductor)(type KiCad)(uri ${KIPRJMOD}/modules/VishaySemiconductor.pretty)(options "")(descr ""))
   (lib (name WorldSemi)(type KiCad)(uri ${KIPRJMOD}/modules/WorldSemi.pretty)(options "")(descr ""))
+  (lib (name _Package_SON)(type KiCad)(uri ${KIPRJMOD}/modules/_Package_SON.pretty)(options "")(descr ""))
 )
