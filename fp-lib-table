@@ -18,6 +18,7 @@
   (lib (name EVERLIGHT)(type KiCad)(uri ${KIPRJMOD}/modules/EVERLIGHT.pretty)(options "")(descr ""))
   (lib (name Elna)(type KiCad)(uri ${KIPRJMOD}/modules/Elna.pretty)(options "")(descr ""))
   (lib (name Espressif)(type KiCad)(uri ${KIPRJMOD}/modules/Espressif.pretty)(options "")(descr ""))
+  (lib (name FreeArea)(type KiCad)(uri ${KIPRJMOD}/modules/FreeArea.pretty)(options "")(descr ""))
   (lib (name GCT)(type KiCad)(uri ${KIPRJMOD}/modules/GCT.pretty)(options "")(descr ""))
   (lib (name GLCD)(type KiCad)(uri ${KIPRJMOD}/modules/GLCD.pretty)(options "")(descr ""))
   (lib (name Harvatek)(type KiCad)(uri ${KIPRJMOD}/modules/Harvatek.pretty)(options "")(descr ""))
