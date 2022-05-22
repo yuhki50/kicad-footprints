@@ -31,6 +31,7 @@
   (lib (name Molex)(type KiCad)(uri ${KIPRJMOD}/modules/Molex.pretty)(options "")(descr ""))
   (lib (name Nexperia)(type KiCad)(uri ${KIPRJMOD}/modules/Nexperia.pretty)(options "")(descr ""))
   (lib (name NidecCopal)(type KiCad)(uri ${KIPRJMOD}/modules/NidecCopal.pretty)(options "")(descr ""))
+  (lib (name OMEGA)(type KiCad)(uri ${KIPRJMOD}/modules/OMEGA.pretty)(options "")(descr ""))
   (lib (name ON_Semiconductor)(type KiCad)(uri ${KIPRJMOD}/modules/ON_Semiconductor.pretty)(options "")(descr ""))
   (lib (name PerforationHole)(type KiCad)(uri ${KIPRJMOD}/modules/PerforationHole.pretty)(options "")(descr ""))
   (lib (name Raytac)(type KiCad)(uri ${KIPRJMOD}/modules/Raytac.pretty)(options "")(descr ""))
