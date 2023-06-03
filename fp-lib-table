@@ -7,6 +7,7 @@
   (lib (name AnalogDevices)(type KiCad)(uri ${KIPRJMOD}/modules/AnalogDevices.pretty)(options "")(descr ""))
   (lib (name Asahikasei)(type KiCad)(uri ${KIPRJMOD}/modules/Asahikasei.pretty)(options "")(descr ""))
   (lib (name Avvicon)(type KiCad)(uri ${KIPRJMOD}/modules/Avvicon.pretty)(options "")(descr ""))
+  (lib (name BETAFPV)(type KiCad)(uri ${KIPRJMOD}/modules/BETAFPV.pretty)(options "")(descr ""))
   (lib (name BatteryCell)(type KiCad)(uri ${KIPRJMOD}/modules/BatteryCell.pretty)(options "")(descr ""))
   (lib (name BatteryTerminal)(type KiCad)(uri ${KIPRJMOD}/modules/BatteryTerminal.pretty)(options "")(descr ""))
   (lib (name Bourns)(type KiCad)(uri ${KIPRJMOD}/modules/Bourns.pretty)(options "")(descr ""))
