@@ -40,6 +40,7 @@
   (lib (name SwitchScience)(type KiCad)(uri ${KIPRJMOD}/modules/SwitchScience.pretty)(options "")(descr ""))
   (lib (name TEConnectivity)(type KiCad)(uri ${KIPRJMOD}/modules/TEConnectivity.pretty)(options "")(descr ""))
   (lib (name TexasInstruments)(type KiCad)(uri ${KIPRJMOD}/modules/TexasInstruments.pretty)(options "")(descr ""))
+  (lib (name Tibbo)(type KiCad)(uri ${KIPRJMOD}/modules/Tibbo.pretty)(options "")(descr ""))
   (lib (name VishaySemiconductor)(type KiCad)(uri ${KIPRJMOD}/modules/VishaySemiconductor.pretty)(options "")(descr ""))
   (lib (name WorldSemi)(type KiCad)(uri ${KIPRJMOD}/modules/WorldSemi.pretty)(options "")(descr ""))
   (lib (name _Package_SON)(type KiCad)(uri ${KIPRJMOD}/modules/_Package_SON.pretty)(options "")(descr ""))
